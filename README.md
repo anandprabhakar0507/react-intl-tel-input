@@ -33,7 +33,7 @@ yarn start
 
 Then open [`localhost:3000`](http://localhost:3000) in a browser.
 
-
+---------------
 ## Installation
 
 The easiest way to use react-intl-tel-input is to install it from NPM and include it in your own React build process (using [Webpack](http://webpack.github.io/), etc).
